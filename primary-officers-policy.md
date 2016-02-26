@@ -91,12 +91,12 @@ Goals:
 * Keep CO­OP office in the loo (aka Jill)
 
 ### Technology
-Head: Kristen Mills
+Head: Dylan Vuz
 
 Goals:
 
-* Get everything deployed
-* Make managing technology super easy
+* Get everything deployed on physical server
+* Make managing technology super easy (It is currently not super easy)
 
 ### Events
 Head: Wade Mauger
